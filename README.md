@@ -19,7 +19,7 @@ Explain the trade-offs involved when designing a distributed processing system.
 
 ---
 
-### ⚙️ Week 2: Parallel Programming Basics (15–21 Apr)
+### Week 2: Parallel Programming Basics (15–21 Apr)
 - [ ] Learn basic multithreading in C++:
   - [ ] `std::thread`
   - [ ] `std::async`
@@ -84,11 +84,3 @@ Explain the trade-offs involved when designing a distributed processing system.
   - [ ] Concepts used
   - [ ] Trade-offs explained
 - [ ] Code is efficient, readable, and well-structured
-
----
-
-## 🧰 Optional Tools & Tips
-- Stopwatch app for time tracking
-- Markdown editor for quick report writing
-- VS Code / Notion snippets for clean formatting
-- Visual comparison graphs (for bonus polish)
